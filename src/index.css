@@ -67,6 +67,7 @@ body {
 #new-quote,
 .tweet-button {
     background: rgb(69, 186, 253);
+    font-size: 14px;
     color: white;
     cursor: pointer;
     text-decoration: none;
