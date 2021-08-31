@@ -5,9 +5,7 @@ const TweetButton = (props) => {
             target='_blank'
             rel="noreferrer"
             href={`https://twitter.com/intent/tweet?text=${props.quoteText}  -${props.author}`}
-        >
-            Tweet
-        </a>
+        >Tweet</a>
     )
 }
 
