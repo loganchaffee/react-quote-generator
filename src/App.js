@@ -1,5 +1,4 @@
 import React from 'react'
-import ReactDOM from 'react-dom'
 import TweetButton from './TweetButton'
 
 export default class App extends React.Component {
